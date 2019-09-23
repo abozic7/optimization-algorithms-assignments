@@ -1,0 +1,7 @@
+C:\Users\Anita\source\repos\APR_dz1\APR_dz1\bin\Debug\APR_dz1.exe.config
+C:\Users\Anita\source\repos\APR_dz1\APR_dz1\bin\Debug\APR_dz1.exe
+C:\Users\Anita\source\repos\APR_dz1\APR_dz1\bin\Debug\APR_dz1.pdb
+C:\Users\Anita\source\repos\APR_dz1\APR_dz1\obj\Debug\APR_dz1.csprojResolveAssemblyReference.cache
+C:\Users\Anita\source\repos\APR_dz1\APR_dz1\obj\Debug\APR_dz1.csproj.CoreCompileInputs.cache
+C:\Users\Anita\source\repos\APR_dz1\APR_dz1\obj\Debug\APR_dz1.exe
+C:\Users\Anita\source\repos\APR_dz1\APR_dz1\obj\Debug\APR_dz1.pdb

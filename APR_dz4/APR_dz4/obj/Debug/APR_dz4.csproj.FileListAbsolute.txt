@@ -1,7 +1,0 @@
-C:\Users\Anita\source\repos\APR_dz4\APR_dz4\bin\Debug\APR_dz4.exe.config
-C:\Users\Anita\source\repos\APR_dz4\APR_dz4\bin\Debug\APR_dz4.exe
-C:\Users\Anita\source\repos\APR_dz4\APR_dz4\bin\Debug\APR_dz4.pdb
-C:\Users\Anita\source\repos\APR_dz4\APR_dz4\obj\Debug\APR_dz4.csprojResolveAssemblyReference.cache
-C:\Users\Anita\source\repos\APR_dz4\APR_dz4\obj\Debug\APR_dz4.csproj.CoreCompileInputs.cache
-C:\Users\Anita\source\repos\APR_dz4\APR_dz4\obj\Debug\APR_dz4.exe
-C:\Users\Anita\source\repos\APR_dz4\APR_dz4\obj\Debug\APR_dz4.pdb
